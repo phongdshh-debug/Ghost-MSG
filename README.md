@@ -4,6 +4,9 @@ This is a modern real-time social web application that combines messaging, user 
 
 Users can connect with others, chat instantly in private or group conversations, manage their personal profiles, and send digital payments securely. The app is designed with a clean, responsive interface and powered by Firebase for authentication and real-time data synchronization
 
+## 💻 Set Up
+- THIS IS ON PHONE ONLY  To use GHOST_MSG on mobile, you need to host the file on a web server so it loads over https://. The simplest way is Netlify Drop — open it on your PC, drag and drop the ghost_msg.html file onto the page, and within seconds you get a free https://something.netlify.app link that works on any device. Alternatively you can use GitHub Pages, Cloudflare Pages, or any static web host. Once the app is behind an https:// URL, Firebase Auth works normally and the login and registration flows complete as expected.
+- ON PC you just need to download HTML file and run in any Browser.
 ## ✨ What You Can Do
 
 - Create an account and set up your profile
@@ -29,3 +32,4 @@ Designed as a foundation for real-time social platforms, community apps, and lig
 - The digital wallet is still fake currency
 - Dont trust someone with #DEV the real dev is "KPSB#DEV" ONLY
 - If you leak your chat yourself, that’s on you — not me
+
