@@ -8,7 +8,7 @@ Users can connect with others, chat instantly in private or group conversations,
 
 - Create an account and set up your profile
 - Chat in real time with friends or groups
-- View other users’ public profiles
+- View other users public profiles
 - See who is online
 - Manage your personal digital wallet
 - Send and receive digital payments securely
@@ -22,3 +22,8 @@ Users can connect with others, chat instantly in private or group conversations,
 ## 🎯 Purpose
 
 Designed as a foundation for real-time social platforms, community apps, and lightweight fintech-style systems.
+
+## ❌ Caution!!!
+
+- The digital wallet is still fake currency
+- Dont trust someone with #DEV the real dev is "KPSB#DEV" ONLY
