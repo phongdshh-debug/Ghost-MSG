@@ -2,7 +2,7 @@
 
 This is a modern real-time social web application that combines messaging, user profiles, and a digital wallet system into one seamless platform.
 
-Users can connect with others, chat instantly in private or group conversations, manage their personal profiles, and send digital payments securely. The app is designed with a clean, responsive interface and powered by Firebase for authentication and real-time data synchronization.
+Users can connect with others, chat instantly in private or group conversations, manage their personal profiles, and send digital payments securely. The app is designed with a clean, responsive interface and powered by Firebase for authentication and real-time data synchronization
 
 ## ✨ What You Can Do
 
@@ -12,6 +12,7 @@ Users can connect with others, chat instantly in private or group conversations,
 - See who is online
 - Manage your personal digital wallet
 - Send and receive digital payments securely
+- Even dev cant see your conversation
 
 ## 🧱 Built With
 
@@ -27,3 +28,4 @@ Designed as a foundation for real-time social platforms, community apps, and lig
 
 - The digital wallet is still fake currency
 - Dont trust someone with #DEV the real dev is "KPSB#DEV" ONLY
+- If you leak your chat yourself, that’s on you — not me
